@@ -1,0 +1,162 @@
+{
+  "folderMappings": [
+    {
+      "folder": "*",
+      "toolbar": "2c49317b-71ca-4772-ad4e-d92030992b0d"
+    },
+    {
+      "folder": "",
+      "toolbar": ""
+    }
+  ],
+  "icon": "circle-ellipsis",
+  "showEditInFabMenu": true,
+  "toolbarProp": "notetoolbar",
+  "toolbars": [
+    {
+      "uuid": "2c49317b-71ca-4772-ad4e-d92030992b0d",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "15014901-f801-4031-9ad7-4fb48fa746d8",
+          "label": "New Knowledge",
+          "icon": "",
+          "link": "Template/Template Knowledge.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "17598c17-62dd-414b-80ec-0c83ad683623",
+          "label": "New Comparison",
+          "icon": "",
+          "link": "Template/Template Comparison.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "90e2983a-fd6a-45fc-a369-523669f51447",
+          "label": "New Productive",
+          "icon": "",
+          "link": "Template/Template Productive.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Toolbar",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "top"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "top"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "top"
+          }
+        }
+      },
+      "updated": "2024-08-23T08:49:55.903Z"
+    }
+  ],
+  "version": 20240727.1
+}
